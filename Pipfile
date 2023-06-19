@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-openeo = "==0.18.*"
+openeo = "==0.19.*"
 requests = "*"
 jupyter = "*"
 rioxarray = "*"
